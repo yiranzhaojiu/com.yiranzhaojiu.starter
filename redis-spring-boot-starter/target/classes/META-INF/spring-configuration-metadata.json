@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "name": "yiranzhaojiu.redis",
+      "type": "com.yiranzhaojiu.RedisProperties",
+      "sourceType": "com.yiranzhaojiu.RedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "yiranzhaojiu.redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.yiranzhaojiu.RedisProperties",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "yiranzhaojiu.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.yiranzhaojiu.RedisProperties",
+      "defaultValue": 6379
+    },
+    {
+      "name": "yiranzhaojiu.redis.ssl",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.yiranzhaojiu.RedisProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "yiranzhaojiu.redis.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.yiranzhaojiu.RedisProperties"
+    }
+  ],
+  "hints": []
+}

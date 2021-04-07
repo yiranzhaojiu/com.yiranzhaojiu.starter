@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "yiranzhaojiu.redis.host",
+      "type": "java.lang.String",
+      "description": "redis连接串",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "yiranzhaojiu.redis.port",
+      "type": "java.lang.Integer",
+      "description": "redis连接串端口",
+      "defaultValue": 6379
+    }
+  ]
+}
